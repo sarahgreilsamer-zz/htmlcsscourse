@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="css/screen.css">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Example Page</title>
+	</head>
+	<footer>
+		<h1 class="highlight">Sample Page</h1>
+		<p>A brief paragraph.</p>
+	</footer>
+	<body>
+		<h1 class="highlight">Sample Page</h1>
+		<p>A brief paragraph.</p>
+	</body>
+
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Example Page</title>
+		<link rel="stylesheet" href="css/layoutcss.css">
+	</head>
+
+	<body>
+		
+		<div class="container">
+
+			<header>
+				<h1>Website Title</h1>
+				<p>Website slogan included here.</p>
+
+				<nav class="site-nav">
+					<ul class="group">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Contact Us</a></li>
+
+					</ul>
+				</nav>
+
+			</header>
+
+			<div class="content-area group">
+
+				<div class="main-area">
+					<p>This is the main area. Lorem ipsum dolor sit amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et morbi, aenean rerum pellentesque eleifend mi orci, tincidunt lobortis eleifend. Mi nibh neque ultricies mauris amet pellentesque. Amet pede, integer euismod at dis phasellus sed ut. Vel sed a justo ultrices pellentesque, morbi nulla ac felis, qui aenean morbi, accumsan eget vehicula non odio duis in. Consequat condimentum, est elementum hac, tempus id porttitor vel facilisis, non condimentum metu neque ultricies mauris amet pellentesque. Amet pede, integer euismod at dis phasellus sed ut. Vel sed a justo ultrices pellentesque, morbi nulla ac felis, qui aenean morbi, accumsan eget vehicula non odio duis in. Consequat condimentum, est elementum hac, tempus id porttitor vel facilisis, non condimentum metus justo libero eget massa, mauris nulla.</p>
+
+					<p>This is the main area. Lorem ipsum dolor sit amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et morbi, aenean rerum pellentesque eleifend mi orci, tincidunt lobortis eleifend. Mi nibh neque ultricies mauris amet pellentesque. Amet pede, integer euismod at dis phasellus sed ut. Vel sed a justo ultrices pellentesque, morbi nulla ac felis, qui aenean morbi, accumsan eget vehicula non odio duis in. Consequat condimentum, est elementum hac, tempus id porttitor vel facilisis, non condimentum metu neque ultricies mauris amet pellentesque. Amet pede, integer euismod at dis phasellus sed ut. Vel sed a justo ultrices pellentesque, morbi nulla ac felis, qui aenean morbi, accumsan eget vehicula non odio duis in. Consequat condimentum, est elementum hac, tempus id porttitor vel facilisis, non condimentum metus justo libero eget massa, mauris nulla.</p>
+
+					<div class="image-banner">
+						<img src="dolphin.jpg" alt="Happy dolphin">
+						
+						<div class="banner-description">
+							<p>This is the description of the image. This is a very cute dolphin wowowowowowowo.</p>
+						</div>
+					</div>
+
+					<p>This is the main area. Lorem ipsum dolor sit amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et morbi, aenean rerum pellentesque eleifend mi orci, tincidunt lobortis eleifend. Mi nibh neque ultricies mauris amet pellent, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et mt amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et mt amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et m.</p>
+
+				</div>
+
+				<aside class="sidebar">
+					<p>This is the sidebar. Lorem ipsum dolor sit amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et morbi, aenean rerum pellentesque eleifend mi orci, tincidunt lobortis eleifend. Mi nibh neque ultricies mauris amet pellentesque. Amet pede, int\ neque ultricies mauris amet pellentesque. elis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et mt amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Variustitor, massa lectus fermentum et mt amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et mt amet, felis eget, commodo ipsum pellentesque dictum, wisi nibh erat. Varius eu id. Vulputate porttitor, massa lectus fermentum et m.</p>
+				</aside>
+
+				<!-- div class="fix"></div -->
+			</div>
+
+			<footer>
+				<p>&copy; 2014 - This is the footer.</p>
+			</footer>
+
+		</div>
+	</body>
+
+</html>
