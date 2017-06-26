@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Homepage</title>
+	</head>
+
+	<body>
+
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Aisle</th>
+					<th>Price</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Break</td>
+					<td>2</td>
+					<td>$3.00</td>
+				</tr>
+					<td>Milk</td>
+					<td>3</td>
+					<td>$1.40</td>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td>Total</td>
+					<td>N.A.</td>
+					<td>All</td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+
+</html>

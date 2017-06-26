@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>Example Page</title>
+	</head>
+	<body>
+		<h1>Sample Page</h1>
+		<p>A brief paragraph.</p>
+		<h2>Music</h2>
+		<p>I play the ukulele and have included a sample recording on this page.</p>
+		<audio controls>
+			<source src="audio/test.mp3" type="audio/mpeg">
+			<a href="audio/test.mp3">Ukulele audio recording</a>
+		</audio>
+	</body>
+
+</html>
